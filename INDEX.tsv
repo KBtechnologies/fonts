@@ -1,8 +1,19 @@
 FONT NAME	TYPE	LICENSE	WEBSITE	PROJECT	MONO	REGULAR	BOLD	ITALIC	BOLD+ITALIC	MONO+BOLD	MONO+ITALIC	MONO+BOLD+ITALIC
+AnonymousPro	monospaced	SIL OFL	https://fonts.google.com/specimen/Anonymous+Pro	-	YES	NO	NO	NO	NO	YES	YES	YES
 B612	family	SIL OFL	https://b612-font.com/	https://github.com/polarsys/b612	YES	YES	YES	YES	YES	YES	YES	YES
+Courier Prime	monospaced	SIL OFL	https://fonts.google.com/specimen/Courier+Prime	-	YES	NO	NO	NO	NO	YES	YES	YES
+DM Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/DM+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
 DSEG	spechal	SIL OFL	https://www.keshikan.net/fonts-e.html	https://github.com/keshikan/DSEG	YES	NO	NO	NO	NO	YES	YES	YES
+Fira Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/Fira+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
 IBM Plex Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/IBM+Plex+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
 IBM Plex Sans	family	SIL OFL	https://fonts.google.com/specimen/IBM+Plex+Sans	-	NO	YES	YES	YES	YES	NO	NO	NO
 Inconsolata	monospaced	SIL OFL	https://fonts.google.com/specimen/Inconsolata	-	YES	NO	NO	NO	NO	YES	YES	YES
+JetBrains Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/JetBrains+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
 LEXEND	accessible	SIL OFL	https://lexend.com/	https://github.com/googlefonts/lexend/	YES	YES	YES	YES	YES	YES	YES	YES
 OpenDyslexic	accessible	SIL OFL	https://opendyslexic.org	https://github.com/antijingoist/opendyslexic/	YES	YES	YES	YES	YES	NO	NO	NO
+Red Hat Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/Red+Hat+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
+Source Code Pro	monospaced	SIL OFL	https://fonts.google.com/specimen/Source+Code+Pro	-	YES	NO	NO	NO	NO	YES	YES	YES
+Space Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/Space+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
+Spline Sans Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/Spline+Sans+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
+Ubuntu	family	Ubuntu Font License	https://design.ubuntu.com/font	-	YES	YES	YES	YES	YES	YES	YES	YES
+VT323	monospaced	SIL OFL	https://fonts.google.com/specimen/VT323	-	YES	NO	NO	NO	NO	NO	NO	NO

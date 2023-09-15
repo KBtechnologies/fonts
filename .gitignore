@@ -1,3 +1,5 @@
 # .gitignore
 ## IDE settings
 .idea
+.vim
+.zip
