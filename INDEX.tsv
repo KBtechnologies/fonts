@@ -1,5 +1,6 @@
 FONT NAME	TYPE	LICENSE	WEBSITE	PROJECT	MONO	REGULAR	BOLD	ITALIC	BOLD+ITALIC	MONO+BOLD	MONO+ITALIC	MONO+BOLD+ITALIC
 B612	family	SIL OFL	https://b612-font.com/	https://github.com/polarsys/b612	YES	YES	YES	YES	YES	YES	YES	YES
+DSEG	spechal	SIL OFL	https://www.keshikan.net/fonts-e.html	https://github.com/keshikan/DSEG	YES	NO	NO	NO	NO	YES	YES	YES
 IBM Plex Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/IBM+Plex+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
 IBM Plex Sans	family	SIL OFL	https://fonts.google.com/specimen/IBM+Plex+Sans	-	NO	YES	YES	YES	YES	NO	NO	NO
 Inconsolata	monospaced	SIL OFL	https://fonts.google.com/specimen/Inconsolata	-	YES	NO	NO	NO	NO	YES	YES	YES
