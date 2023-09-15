@@ -10,6 +10,7 @@ IBM Plex Sans	family	SIL OFL	https://fonts.google.com/specimen/IBM+Plex+Sans	-	N
 Inconsolata	monospaced	SIL OFL	https://fonts.google.com/specimen/Inconsolata	-	YES	NO	NO	NO	NO	YES	YES	YES
 JetBrains Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/JetBrains+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
 LEXEND	accessible	SIL OFL	https://lexend.com/	https://github.com/googlefonts/lexend/	YES	YES	YES	YES	YES	YES	YES	YES
+Open Sans	family	SIL OFL	https://fonts.google.com/specimen/Open+Sans	-	NO	YES	YES	YES	YES	NO	NO	NO
 OpenDyslexic	accessible	SIL OFL	https://opendyslexic.org	https://github.com/antijingoist/opendyslexic/	YES	YES	YES	YES	YES	NO	NO	NO
 Red Hat Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/Red+Hat+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
 Source Code Pro	monospaced	SIL OFL	https://fonts.google.com/specimen/Source+Code+Pro	-	YES	NO	NO	NO	NO	YES	YES	YES
@@ -17,3 +18,4 @@ Space Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/Space+Mono	-	YES
 Spline Sans Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/Spline+Sans+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
 Ubuntu	family	Ubuntu Font License	https://design.ubuntu.com/font	-	YES	YES	YES	YES	YES	YES	YES	YES
 VT323	monospaced	SIL OFL	https://fonts.google.com/specimen/VT323	-	YES	NO	NO	NO	NO	NO	NO	NO
+Work Sans	family	SIL OFL	https://fonts.google.com/specimen/Work+Sans	-	NO	YES	YES	YES	YES	NO	NO	NO
