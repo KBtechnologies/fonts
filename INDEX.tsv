@@ -10,6 +10,8 @@ IBM Plex Sans	family	SIL OFL	https://fonts.google.com/specimen/IBM+Plex+Sans	-	N
 Inconsolata	monospaced	SIL OFL	https://fonts.google.com/specimen/Inconsolata	-	YES	NO	NO	NO	NO	YES	YES	YES
 JetBrains Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/JetBrains+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
 LEXEND	accessible	SIL OFL	https://lexend.com/	https://github.com/googlefonts/lexend/	YES	YES	YES	YES	YES	YES	YES	YES
+Linux Biolinum	family	GNU GPL + SIL OFL	https://www.cufonfonts.com/font/linux-biolinum	-	YES	YES	YES	YES	YES	YES	YES	YES
+Linux Biolinum O	family	GNU GPL + SIL OFL	https://www.cufonfonts.com/font/linux-biolinum-o	-	YES	YES	YES	YES	YES	YES	YES	YES
 Open Sans	family	SIL OFL	https://fonts.google.com/specimen/Open+Sans	-	NO	YES	YES	YES	YES	NO	NO	NO
 OpenDyslexic	accessible	SIL OFL	https://opendyslexic.org	https://github.com/antijingoist/opendyslexic/	YES	YES	YES	YES	YES	NO	NO	NO
 Red Hat Mono	monospaced	SIL OFL	https://fonts.google.com/specimen/Red+Hat+Mono	-	YES	NO	NO	NO	NO	YES	YES	YES
